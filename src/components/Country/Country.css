@@ -1,0 +1,12 @@
+.box {
+  border: 5px solid greenyellow;
+  border-radius: 15px;
+  margin-top: 15px;
+}
+
+.visited {
+  background-color: tomato;
+  border: 5px solid greenyellow;
+  border-radius: 15px;
+  margin-top: 15px;
+}
